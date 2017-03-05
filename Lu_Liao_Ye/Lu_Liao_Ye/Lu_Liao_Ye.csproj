@@ -128,7 +128,7 @@
     <Compile Include="Models\Checking.cs" />
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\Saving.cs" />
-    <Compile Include="Models\UserInfo.cs" />
+    <Compile Include="Models\ClientInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
